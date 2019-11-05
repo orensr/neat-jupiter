@@ -1,6 +1,22 @@
 ---
 title: Home
 sections:
+  - component: content_block.html
+    content: >-
+      I'm a bass player living in Salem, OR. 
+
+
+      I play both upright and electric bass, performing in a wide range of
+      styles from jazz to funk, R&B, rock, and country.
+
+
+      I've been playing for decades, and this site showcases some of my current
+      and past recorded work.
+    image: /images/dsc_0757.jpg
+    section_id: topsection
+    subtitle: ''
+    title: Oren Sreebny
+    type: contentblock
   - component: hero_block.html
     content: >-
       I'm a bass player living in Salem, OR. 
