@@ -18,18 +18,9 @@ sections:
     title: Oren Sreebny
     type: contentblock
   - component: hero_block.html
-    content: >-
-      I'm a bass player living in Salem, OR. 
-
-
-      I play both upright and electric bass, performing in a wide range of
-      styles from jazz to funk, R&B, rock, and country.
-
-
-      I've been playing for decades, and this site showcases some of my current
-      and past recorded work.
+    content: I''ll be playing Friday night at the Buffalo Gap Saloon in Portland.
     section_id: hero
-    title: Oren Sreebny
+    title: News
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
