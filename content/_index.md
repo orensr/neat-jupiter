@@ -18,7 +18,9 @@ sections:
     title: Oren Sreebny
     type: contentblock
   - component: hero_block.html
-    content: I''ll be playing Friday night at the Buffalo Gap Saloon in Portland.
+    content: >-
+      I''ll be playing Friday night at the Buffalo Gap Saloon in Portland. Come
+      see us!
     section_id: hero
     title: News
     type: heroblock
