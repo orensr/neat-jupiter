@@ -81,6 +81,10 @@ sections:
     subtitle: An optional subtitle of the section
     title: Contact Us
     type: contactblock
+  - component: contact_block.html
+    type: contactblock
+  - component: contact_block.html
+    type: contactblock
 menu:
   main:
     name: Home
