@@ -2,9 +2,18 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: This site is only a test. No resemblence to an actual site is implied.
+    content: >-
+      I'm a bass player living in Salem, OR. 
+
+
+      I play both upright and electric bass, performing in a wide range of
+      styles from jazz to funk, R&B, rock, and country.
+
+
+      I've been playing for decades, and this site showcases some of my current
+      and past recorded work.
     section_id: hero
-    title: Welcome to Oren's test site!
+    title: Oren Sreebny
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
