@@ -12,7 +12,7 @@ sections:
 
       I've been playing for decades, and this site showcases some of my current
       and past recorded work.
-    image: /images/version-2.jpg
+    image: /images/10.jpg
     section_id: topsection
     subtitle: ''
     title: Oren Sreebny
