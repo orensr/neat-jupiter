@@ -3,6 +3,9 @@ title: Home
 sections:
   - component: content_block.html
     content: >-
+      ![Picture of Oren](/images/version-2.jpg)
+
+
       I'm a bass player living in Salem, OR. 
 
 
@@ -12,7 +15,7 @@ sections:
 
       I've been playing for decades, and this site showcases some of my current
       and past recorded work.
-    image: /images/10.jpg
+    image: ''
     section_id: topsection
     subtitle: ''
     title: Oren Sreebny
