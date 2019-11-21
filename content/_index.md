@@ -3,7 +3,7 @@ title: Home
 sections:
   - component: content_block.html
     content: >-
-      ![Picture of Oren](/images/version-2.jpg)
+      ![Picture of Oren](/images/dsc_0757.jpg)
 
 
       I'm a bass player living in Salem, OR. 
